@@ -1,4 +1,4 @@
-Chat Bot using LangGraph.
-Use uv for installing dependencies 
-'uv init .'
+Chat Bot using LangGraph.\n
+Use uv for installing dependencies \n
+'uv init .'\n
 'uv add -r requirements.txt'
